@@ -31,9 +31,9 @@ Things that I code with:
 - 🔭 I’m currently working on enhancing my skills in back-end development and object-oriented programming.
 - 🌱 I’m currently learning Computer Science with Phyton.
 - 💬 Ask me about anything, I'm an introverd but just to renew my energy really, I love a good conversation about anything under the sun. 
-- ⚡ Fun fact: I always wanted to be a poliglot, I speak Portuguese and English fluently and some Italian and German. I also love using my problem-solving skills not just in code, but in everyday life challenges too, so big board game fan.
+- ⚡ Fun fact: I've always wanted to be a poliglot, I speak Portuguese and English fluently and some Italian and German. I also love using my problem-solving skills not just in code, but in everyday life challenges too, so big board game fan.
 
--  📫 How to reach me: <a href="https://www.linkedin.com/in/seuperfil/" target="_blank">
+-  📫 How to reach me: <a href="https://www.linkedin.com/in/samantharsiqueira/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="20" height="20"/>
 </a>
 
