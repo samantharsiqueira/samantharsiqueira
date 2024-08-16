@@ -2,7 +2,7 @@
 
 I’m an economist turned tech enthusiast, combining my love for business and technology. With a solid background in finance and tech, I’ve worked in investor data management and contract validation, ensuring precision and efficiency.
 
-After moving from Brazil to Europe, I spent 7 years honing my skills in customer service and tech licensing. Now, after 1500 hours of intensive web development study at Trybe, I’m a passionate developer who thrives on turning ideas into innovative, clean, and efficient code—whether it's front-end with React or back-end with Node.js and SQL.
+After moving from Brazil to Europe 7 years ago, I spent a good time enhancing my skills in customer service and tech licensing. Now, after 1500 hours of intensive web development study at Trybe, I’m a passionate developer who thrives on turning ideas into innovative, clean, and efficient code—whether it's front-end with React or back-end with Node.js and SQL.
 
 Things that I code with:
 
@@ -27,7 +27,7 @@ Things that I code with:
  I'm learning:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="CSHARP" alt="CSHARP" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSHARP" alt="CSHARP" width="40" height="40"/>
- 
+
 - 🔭 I’m currently working on enhancing my skills in back-end development and object-oriented programming.
 - 🌱 I’m currently learning Computer Science with Phyton.
 - 💬 Ask me about anything, I'm an introverd but just to renew my energy really, I love a good conversation about anything under the sun. 
