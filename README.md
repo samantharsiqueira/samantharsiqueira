@@ -25,7 +25,7 @@ Things that I code with:
   
 
  I'm learning:
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="CSHARP" alt="CSHARP" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Phyton" alt="Python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSHARP" alt="CSHARP" width="40" height="40"/>
 
 - 🔭 I’m currently working on enhancing my skills in back-end development and object-oriented programming.
