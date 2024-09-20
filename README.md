@@ -26,10 +26,9 @@ Things that I code with:
 
  I'm learning:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Phyton" alt="Python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSHARP" alt="CSHARP" width="40" height="40"/>
 
 - 🔭 I’m currently working on enhancing my skills in back-end development and object-oriented programming.
-- 🌱 I’m currently learning Computer Science with Phyton.
+- 🌱 I’m currently learning more about data with Phyton, best of the both worlds for me, economics and technology.
 - 💬 Ask me about anything, I'm an introverd but just to renew my energy really, I love a good conversation about anything under the sun. 
 - ⚡ Fun fact: I've always wanted to be a poliglot, I speak Portuguese and English fluently and some Italian and German. I also love using my problem-solving skills not just in code, but in everyday life challenges too, so big board game fan.
 
